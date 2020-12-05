@@ -1,4 +1,4 @@
-# Computer-Network-Project-Phase1i
+# Computer-Network-Project-Phase1
 NTU Course Computer Network   
 Descriptions:  
 This is my Computer Network Project Phase 1. I write a server.c and index.html. I use socket in server.c to read the content of index.html, which is the personal profile design by myself. I use Azure to set my server and use Name.com to get the domain name.  
